@@ -38,10 +38,6 @@ public class MovieController {
 //					MediaType.APPLICATION_JSON_VALUE })
 //	public ResponseEntity<?> addDetails(@RequestHeader(value = "Accept") String acceptHeader,
 //			@RequestHeader(value = "Accept-Language") String languageHeader,
-//			@RequestHeader(value = "Connection") String connectionHeader,
-//			@RequestHeader(value = "Authorization") String authorizationHeader,
-//			@RequestHeader(value = "Content-Type") String contentTypeHeader,
-//			@RequestHeader(value = "Content-Length") String contentLengthHeader, @RequestBody @Valid MovieDto dto)
 //			throws ControllerException {
 //		MovieDto m = null;
 //		try {
